@@ -1,0 +1,22 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-cheapeat01-dev-195932-authRole",
+            "UnauthRoleArn": "arn:aws:iam::148716834237:role/amplify-cheapeat01-dev-195932-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::148716834237:role/amplify-cheapeat01-dev-195932-authRole",
+            "Region": "us-west-2",
+            "DeploymentBucketName": "amplify-cheapeat01-dev-195932-deployment",
+            "UnauthRoleName": "amplify-cheapeat01-dev-195932-unauthRole",
+            "StackName": "amplify-cheapeat01-dev-195932",
+            "StackId": "arn:aws:cloudformation:us-west-2:148716834237:stack/amplify-cheapeat01-dev-195932/2f5f29f0-d923-11ea-91a2-02eb596faf62",
+            "AmplifyAppId": "d1zpqqcwal1mtn"
+        },
+        "categories": {
+            "auth": {
+                "cheapeat018efe8d32": {
+                    "hostedUIProviderCreds": "[{\"ProviderName\":\"Facebook\",\"client_id\":\"289778168945596\",\"client_secret\":\"cf6d50f20c943e92cacc2d373b917334\"},{\"ProviderName\":\"Google\",\"client_id\":\"450847495284-nlkkpl01udqdjt1798pvrqulkimmo1ns.apps.googleusercontent.com\",\"client_secret\":\"0ZMZm0mMPaG46dhPfe0Vom5o\"}]"
+                }
+            }
+        }
+    }
+}
